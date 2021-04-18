@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Hidden=false
+Name=Create Default Appfolders
+Exec=/opt/triumphal/scripts/create_default_appfolders.sh
+NoDisplay=true
+Version=1.0
+StartupNotify=false
+Terminal=true

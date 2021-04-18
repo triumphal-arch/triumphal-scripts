@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Hidden=false
+Name=Hide Ugly Apps
+Exec=/opt/triumphal/scripts/hide_ugly_apps.sh
+NoDisplay=true
+Version=1.0
+StartupNotify=false
+Terminal=true
