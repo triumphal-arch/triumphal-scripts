@@ -16,7 +16,6 @@ create_app_folder () {
 }
 
 create_app_folder Utilities "'X-GNOME-Utilities'"
-create_app_folder Sundry "'Utility'"
 
 # remove from user's autostart
 rm -f $HOME/.config/autostart/create_default_appfolders.desktop
